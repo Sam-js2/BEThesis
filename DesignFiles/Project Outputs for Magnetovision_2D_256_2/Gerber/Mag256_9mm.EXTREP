@@ -1,0 +1,40 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Mag256_9mm.GBR   10/01/2025  10:15:18 AM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Mask                                
+.gbr                L1 (SIG)                                
+.gbr                L2 (GND)                                
+.gbr                L3 (SIG)                                
+.gbr                L4 (GND)                                
+.gbr                L5 (PWR)                                
+.gbr                L6 (SIG)                                
+.gbr                Bottom Mask                             
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                Mechanical 1                            
+.gbr                Top 3D Body                             
+.gbr                Top Designator                          
+.gbr                Bottom Designator                       
+.gbr                Top Assembly                            
+.gbr                Top Component Outline                   
+.gbr                Bottom Component Outline                
+.gbr                Mechanical 13                           
+.gbr                Bottom 3D Body                          
+.gbr                Top Courtyard                           
+.gbr                Bottom Courtyard                        
+.gbr                Top Component Center                    
+.gbr                Bottom Component Center                 
+.gbr                Bottom Assembly                         
+.gbr                Top Pad Master                          
+.gbr                Bottom Pad Master                       
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------
